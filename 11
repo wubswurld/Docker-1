@@ -1,0 +1,2 @@
+docker volume list
+docker volume ls
