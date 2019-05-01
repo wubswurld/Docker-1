@@ -1,0 +1,1 @@
+docker service create --name orbital-command --env RABBITMQ_DEFAULT_USER=ckrommen --env RABBITMQ_DEFAULT_PASS=password rabbit
